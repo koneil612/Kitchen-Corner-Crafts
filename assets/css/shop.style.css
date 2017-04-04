@@ -12,9 +12,10 @@
 
 /*Import CSS Plugins*/
 @import url(plugins/style-switcher.css);
-
+@import url('https://fonts.googleapis.com/css?family=Abel');
+@import url('https://fonts.googleapis.com/css?family=Megrim');
 * {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Apel', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
