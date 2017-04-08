@@ -2841,6 +2841,10 @@ li:first-child {
 
 /*Revolution Slider (Main)
 ------------------------------------*/
+
+#mainphoto {
+	width: 100%;
+}
 .tp-banner-container ul li,
 .fullscreenbanner-container ul li {
   list-style: none;
